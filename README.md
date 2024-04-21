@@ -1,5 +1,5 @@
 # Algoritmo-de-Needleman-Wunsch
-Algoritmo para alinhamento de sequencias de nucleotídeos ou proteínas
+Algoritmo para alinhamento de sequências de nucleotídeos ou proteínas
 
 ```
 def needleman_wunsch(seq1, seq2, match=1, mismatch=0, gap=0):
